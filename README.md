@@ -15,4 +15,7 @@ A responsive sign-up/login form crafted with semantic HTML, Tailwind CSS, and ac
 ## Author
 Andrew Hueston
 ## Live Demo
-[https://andhues.github.io/cleanforms-ui-kit/](https://andhues.github.io/cleanforms-ui-kit/)
+## Live Preview
+
+[CleanForms UI Kit Demo](https://andhues.github.io/cleanforms-ui-kit/)
+
